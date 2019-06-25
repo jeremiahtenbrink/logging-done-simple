@@ -1,0 +1,22 @@
+{
+  "name": "@npm/logging-done-simple",
+  "version": "1.0.0",
+  "description": "Simple console logging inport to help with logging to the console.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logging",
+    "console",
+    "error",
+    "info",
+    "warn",
+    "log"
+  ],
+  "author": "Jeremiah Tenbrink",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.0.10"
+  }
+}

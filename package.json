@@ -1,6 +1,6 @@
 {
   "name": "logging-done-simple",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Simple console logging import to help with logging to the console.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -21,6 +21,10 @@
   ],
   "author": "Jeremiah Tenbrink",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiahtenbrink/logging-done-simple/issues"
+  },
+  "homepage":"https://github.com/jeremiahtenbrink/logging-done-simple",
   "dependencies": {
   },
   "devDependencies": {

@@ -3,7 +3,7 @@
 
 ## Install
 
-```console
+```sh
 npm install logging-done-simple
 ```
 
@@ -44,3 +44,11 @@ logger.info("message", null, "title");
 
 ### Warning and errors do show up on production builds.
 ![Log Example](https://github.com/jeremiahtenbrink/logging-done-simple/blob/master/resources/warningErrorExample.JPG?raw=true)
+
+### Write you own styles
+```javascript
+logger.setStyle("styleType", "string of styles");
+```
+###### Style Types = "error", "info", "log", "warning"
+###### String of styles = "; seperated list of css properties"
+###### Example = ("error", "background-color: red; color: white; margin-left: 2rem")

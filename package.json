@@ -1,6 +1,6 @@
 {
-  "name": "@npm/logging-done-simple",
-  "version": "1.0.0",
+  "name": "logging-done-simple",
+  "version": "1.0.1",
   "description": "Simple console logging inport to help with logging to the console.",
   "main": "index.ts",
   "scripts": {
@@ -17,6 +17,7 @@
   "author": "Jeremiah Tenbrink",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^12.0.10"
+    "@types/node": "^12.0.10",
+    "user": "0.0.0"
   }
 }

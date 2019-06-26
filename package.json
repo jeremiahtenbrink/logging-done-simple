@@ -1,8 +1,8 @@
 {
   "name": "logging-done-simple",
-  "version": "1.0.5",
-  "description": "Simple console logging inport to help with logging to the console.",
-  "main": "index.ts",
+  "version": "1.0.6",
+  "description": "Simple console logging import to help with logging to the console.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

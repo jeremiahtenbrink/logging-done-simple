@@ -24,3 +24,7 @@
 ###### .log() generates a log message in the console
 
 ![Log Example](https://github.com/jeremiahtenbrink/logging-done-simple/blob/master/resources/logExample.JPG?raw=true)
+
+
+### Warning and errors do show up on production builds.
+![Log Example](https://github.com/jeremiahtenbrink/logging-done-simple/blob/master/resources/logExample.JPG?raw=true)

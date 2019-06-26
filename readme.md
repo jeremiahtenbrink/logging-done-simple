@@ -23,4 +23,4 @@
 `logger.log("message goes here" , [this.state, this.props], "messageTitle");`
 ###### .log() generates a log message in the console
 
-![Log Example]('https://github.com/jeremiahtenbrink/logging-done-simple/blob/master/resources/logExample.JPG')
+![Log Example](https://github.com/jeremiahtenbrink/logging-done-simple/blob/master/resources/logExample.JPG)

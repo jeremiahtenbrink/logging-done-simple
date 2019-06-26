@@ -19,18 +19,19 @@ const logger = Logger("Group Name");
 ###### .info() and .log() will not show up on production builds.
 
 ```javascript
-logger.info("message goes here" , {id: 1, name: "some name"}, 
-"messageTitle"); 
-````
-###### .info() creates a info message inside of the console.
+logger.info("message goes here" , {id: 1, name: "some name"}, "messageTitle"); 
+```
 
 ### You can log just a single object. Or a object array
-`logger.log("message goes here" , [this.state, this.props], "messageTitle");`
+```javascript 
+logger.log("message goes here" , [this.state, this.props], 
+"messageTitle");
+```
 
-###### `logger.log(message: string, objects: null | {} | {}[] = null, title: string)`
+###### Arguments are as follows.
+```logger.log(message: string, objects: null | {} | {}[] = null, title: string)```
 
-###### .log() generates a log message in the console
-
+##### Console example
 ![Log Example](https://github.com/jeremiahtenbrink/logging-done-simple/blob/master/resources/logExample.JPG?raw=true)
 
 

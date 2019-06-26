@@ -49,7 +49,7 @@ logger.info("message", null, "title");
 ```javascript
 logger.setStyle("styleType", "string of styles");
 ```
-##### Style Types = "error", "info", "log", "warning", and "group" to style the group name
+###### Style Types = "error", "info", "log", "warning", and "group" to style the group name
 ##### Error and Warning styles only apply to objects in the warning and error calls
 ###### String of styles = "; seperated list of css properties"
-###### Example = ("error", "background-color: red; color: white; margin-left: 2rem")
+##### Example = ("error", "background-color: red; color: white; margin-left: 2rem")

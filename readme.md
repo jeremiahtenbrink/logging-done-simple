@@ -27,4 +27,4 @@
 
 
 ### Warning and errors do show up on production builds.
-![Log Example](https://github.com/jeremiahtenbrink/logging-done-simple/blob/master/resources/logExample.JPG?raw=true)
+![Log Example](https://github.com/jeremiahtenbrink/logging-done-simple/blob/master/resources/warningErrorExample.JPG?raw=true)

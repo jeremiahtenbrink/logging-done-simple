@@ -1,6 +1,6 @@
 {
   "name": "logging-done-simple",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Simple console logging inport to help with logging to the console.",
   "main": "index.ts",
   "scripts": {

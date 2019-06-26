@@ -29,7 +29,14 @@ logger.log("message goes here" , [this.state, this.props],
 ```
 
 ###### Arguments are as follows.
-```logger.log(message: string, objects: null | {} | {}[] = null, title: string)```
+```typescript
+logger.log(message: string, objects: null | {} | {}[] = null, title: string)
+```
+
+###### You don't have to pass a object. 
+```javascript
+logger.info("message", null, "title");
+```
 
 ##### Console example
 ![Log Example](https://github.com/jeremiahtenbrink/logging-done-simple/blob/master/resources/logExample.JPG?raw=true)
